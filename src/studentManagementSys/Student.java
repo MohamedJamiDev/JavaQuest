@@ -9,7 +9,7 @@ package studentManagementSys;
 
 public class Student {
 
-   private static int counter = 10;
+   private static int counter = 100000;
    private final int studentId;
 
    private String studentName;
